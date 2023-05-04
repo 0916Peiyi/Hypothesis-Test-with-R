@@ -7,8 +7,14 @@ Go a step further, the data set used in this report contains 254019 rows and 6 v
 
 Features:
 -- comorbidity : The patient’s chronic disease situation in the case 
+
 -- sex: The patient’s gender in the case
+
 -- ethnicity: The patient’s ethnicity in the case
+
 -- race: The patient’s race in the case 
+
 -- cases: Whether it’s a COVID-19 case (0: not case, 1: case)
+
 -- deaths: Whether this case is fatal or not (0: death occurred, 1: death not occurred)
+
